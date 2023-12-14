@@ -2,13 +2,17 @@
 
 A simple and lightweight clone of Google Keep, designed for easy note-taking and organization.
 
+## Snapshots
+
+![Snapshot 1](snapshots/pic-1.png)
+![Snapshot 2](snapshots/pic-2.png)
+![Snapshot 3](snapshots/pic-3.png)
+
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
